@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HeaderHome renders correctly 1`] = `
+<div
+  className="jumbotron"
+>
+  <div
+    className="container text-center"
+  >
+    <h1
+      className="display-4"
+    />
+    <p
+      className="lead"
+    />
+    <hr
+      className="my-4"
+    />
+    <p />
+    <a
+      className="btn btn-primary btn-lg"
+      role="button"
+    />
+  </div>
+</div>
+`;

@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Organizers renders correctly 1`] = `
+Array [
+  <h3>
+    Organizers
+  </h3>,
+  <div
+    className="row justify-content-start"
+  >
+    <div
+      className="col-6 col-md-3"
+    >
+      <a
+        href="https://asiermarques.com"
+        rel="noopener noreferrer"
+        target="_blank"
+        title="Sara Smith"
+      >
+        <img
+          alt="Sara Smith"
+          className="img-thumbnail"
+          src="https://randomuser.me/api/portraits/women/40.jpg"
+        />
+      </a>
+    </div>
+    <div
+      className="col-6 col-md-3"
+    >
+      <a
+        href="https://asiermarques.com"
+        rel="noopener noreferrer"
+        target="_blank"
+        title="Sara Smith"
+      >
+        <img
+          alt="Sara Smith"
+          className="img-thumbnail"
+          src="https://randomuser.me/api/portraits/women/40.jpg"
+        />
+      </a>
+    </div>
+    <div
+      className="col-6 col-md-3"
+    >
+      <a
+        href="https://asiermarques.com"
+        rel="noopener noreferrer"
+        target="_blank"
+        title="Sara Smith"
+      >
+        <img
+          alt="Sara Smith"
+          className="img-thumbnail"
+          src="https://randomuser.me/api/portraits/women/40.jpg"
+        />
+      </a>
+    </div>
+  </div>,
+]
+`;

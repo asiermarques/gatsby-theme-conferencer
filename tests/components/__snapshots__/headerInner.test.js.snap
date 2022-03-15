@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HeaderInner renders correctly 1`] = `
+<div
+  className="jumbotron"
+>
+  <div
+    className="container"
+  >
+    <div
+      className="row"
+    >
+      <div
+        className="col-sm-7"
+      >
+        <a
+          href="/"
+        >
+          <h2
+            className="display-4"
+          />
+        </a>
+        <p
+          className="lead"
+        />
+      </div>
+      <div
+        className="col-sm-5 text-center"
+      >
+        <p />
+        <a
+          className="btn btn-primary btn-lg"
+          role="button"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;

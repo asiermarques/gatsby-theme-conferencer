@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Sponsors renders correctly 1`] = `
+<section
+  id="sponsors"
+>
+  <div
+    className="container"
+  >
+    <h2>
+      Our sponsors
+    </h2>
+  </div>
+</section>
+`;
+
+exports[`Sponsors renders correctly without any sponsor 1`] = `
+<section
+  id="sponsors"
+>
+  <div
+    className="container"
+  >
+    <h2>
+      Our sponsors
+    </h2>
+  </div>
+</section>
+`;
+
+exports[`Sponsors renders correctly without sponsor block titles 1`] = `
+<section
+  id="sponsors"
+>
+  <div
+    className="container"
+  >
+    <h2>
+      Our sponsors
+    </h2>
+  </div>
+</section>
+`;

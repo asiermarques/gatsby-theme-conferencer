@@ -1,0 +1,107 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Agenda renders correctly 1`] = `
+<section
+  id="agenda"
+>
+  <div
+    className="container"
+  >
+    <h2
+      className="text-center"
+    >
+      Agenda
+    </h2>
+    <div
+      className="table-responsive-sm"
+    >
+      <table
+        className="table table-striped stacktable large-only"
+        id="agenda-table"
+      >
+        <thead>
+          <tr>
+            <th />
+            <th
+              width="40%"
+            />
+            <th
+              width="40%"
+            />
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td
+              className="time"
+            >
+              10:00-11:00
+            </td>
+            <td>
+              <p>
+                -
+              </p>
+            </td>
+            <td>
+              <p>
+                -
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <td
+              className="time"
+            >
+              11:00-12:00
+            </td>
+            <td>
+              <p>
+                -
+              </p>
+            </td>
+            <td>
+              <p>
+                -
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <td
+              className="time"
+            >
+              13:00-13:30
+            </td>
+            <td>
+              <p>
+                -
+              </p>
+            </td>
+            <td>
+              <p>
+                -
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <td
+              className="time"
+            >
+              13:30-15:00
+            </td>
+            <td>
+              <p>
+                -
+              </p>
+            </td>
+            <td>
+              <p>
+                -
+              </p>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+`;
